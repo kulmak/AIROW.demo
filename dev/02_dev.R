@@ -45,7 +45,7 @@ usethis::use_test("app")
 # Documentation
 
 ## Vignette ----
-usethis::use_vignette("AIROW.demo")
+usethis::use_vignette("AIROW_demo")
 devtools::build_vignettes()
 
 ## Code Coverage----
