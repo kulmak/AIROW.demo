@@ -14,6 +14,7 @@ RoxygenNote: 7.1.2
 URL: https://github.com/kulmak/AIROW.demo
 BugReports: https://github.com/kulmak/AIROW.demo/issues
 Suggests: 
+    covr,
     knitr,
     rmarkdown,
     spelling,

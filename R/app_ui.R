@@ -11,6 +11,7 @@ app_ui <- function(request) {
     # Your application UI logic
     fluidPage(
       h1("AIROW.demo"),
+      h2("updated!"),
       mod_name_of_module1_ui("name_of_module1_1")
     )
   )
